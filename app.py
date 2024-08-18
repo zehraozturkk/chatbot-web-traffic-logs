@@ -10,8 +10,12 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.chat_history import BaseChatMessageHistory, InMemoryChatMessageHistory
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 
+from langchain.embeddings import SentenceTransformerEmbeddings
+
+from langchain_pinecone import PineconeVectorStore
+
 import streamlit as st
-from sympy.physics.units import temperature
+from openai import embeddings
 
 st.title("Chatbox")
 st.header("hey, lets chat")
@@ -27,16 +31,27 @@ documents = [Document(page_content=content)]
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
 splited_documents = text_splitter.split_documents(documents)
 
+print(splited_documents)
 # Belgeleri Chroma'ya ekleme
 vectorstore = Chroma.from_documents(
     documents=splited_documents,
     embedding=OpenAIEmbeddings()
 )
+
+#pinecone
+
+index_name = "log-index"
+
+pinecone = PineconeVectorStore.from_documents(
+    documents, embeddings, index_name=index_name
+)
+
 retriever = vectorstore.as_retriever()
 
 chat = ChatOpenAI(model="gpt-3.5-turbo",  temperature = 0.4)
 
 prompt = hub.pull("rlm/rag-prompt")
+
 
 
 
