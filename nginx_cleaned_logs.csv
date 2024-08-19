@@ -1,0 +1,201 @@
+,IP Address,Method,URL,Status,Size,Referer,date,time,browser,os,device
+0,192.168.1.85,GET,/checkout,200,2061,http://facebook.com,2024-08-18,14:09:16,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+1,192.168.1.237,POST,/login,301,8280,http://facebook.com,2024-08-18,17:24:40,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+2,192.168.1.200,POST,/category/books,404,1228,http://twitter.com,2024-08-19,02:46:24,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+3,192.168.1.227,PUT,/search,200,6396,-,2024-08-18,18:18:59,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+4,192.168.1.37,DELETE,/product/123,200,1756,http://twitter.com,2024-08-18,12:30:36,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+5,192.168.1.147,PUT,/category/books,500,7448,http://twitter.com,2024-08-18,15:46:11,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+6,192.168.1.27,DELETE,/cart,301,1660,http://facebook.com,2024-08-18,15:14:54,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+7,192.168.1.238,DELETE,/category/electronics,200,5829,http://google.com,2024-08-19,06:42:40,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+8,192.168.1.141,POST,/category/electronics,500,1952,http://twitter.com,2024-08-18,23:42:54,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+9,192.168.1.158,DELETE,/cart,302,1505,-,2024-08-18,15:19:18,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+10,192.168.1.123,DELETE,/category/electronics,302,7603,http://facebook.com,2024-08-19,10:38:39,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+11,192.168.1.162,DELETE,/cart,404,7902,http://mysite.com,2024-08-18,20:40:10,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+12,192.168.1.28,DELETE,/home,500,7601,http://google.com,2024-08-19,04:00:51,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+13,192.168.1.20,DELETE,/product/456,404,5835,http://twitter.com,2024-08-18,15:17:54,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+14,192.168.1.110,PUT,/cart,500,4866,http://mysite.com,2024-08-19,03:35:49,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+15,192.168.1.229,POST,/category/electronics,500,6327,http://google.com,2024-08-19,05:38:33,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+16,192.168.1.154,DELETE,/category/clothing,500,8515,http://facebook.com,2024-08-19,05:05:44,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+17,192.168.1.24,GET,/login,301,7469,http://facebook.com,2024-08-18,20:48:20,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+18,192.168.1.52,POST,/product/123,500,5445,-,2024-08-18,23:34:35,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+19,192.168.1.54,PUT,/category/clothing,500,7134,http://google.com,2024-08-18,20:47:37,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+20,192.168.1.19,DELETE,/product/456,500,3690,http://facebook.com,2024-08-19,10:15:56,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+21,192.168.1.65,PUT,/product/456,301,3782,http://twitter.com,2024-08-18,22:49:33,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+22,192.168.1.48,PUT,/search,200,2017,http://facebook.com,2024-08-18,23:54:42,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+23,192.168.1.234,POST,/product/456,302,1168,http://google.com,2024-08-18,23:49:36,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+24,192.168.1.38,GET,/home,301,1830,http://google.com,2024-08-19,07:20:08,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+25,192.168.1.251,GET,/product/456,404,8992,http://twitter.com,2024-08-18,15:42:38,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+26,192.168.1.250,PUT,/category/clothing,301,4486,http://facebook.com,2024-08-18,16:15:25,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+27,192.168.1.197,PUT,/category/clothing,301,4420,http://mysite.com,2024-08-18,15:08:15,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+28,192.168.1.199,GET,/search,500,6975,-,2024-08-18,19:20:21,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+29,192.168.1.85,GET,/home,301,8695,http://facebook.com,2024-08-18,16:45:21,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+30,192.168.1.210,PUT,/category/clothing,404,5486,-,2024-08-18,12:46:32,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+31,192.168.1.147,POST,/search,500,5194,http://mysite.com,2024-08-18,12:16:31,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+32,192.168.1.207,DELETE,/product/456,200,4007,http://twitter.com,2024-08-18,19:50:57,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+33,192.168.1.245,POST,/search,404,8387,-,2024-08-18,22:31:28,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+34,192.168.1.147,PUT,/category/books,404,7125,-,2024-08-18,18:13:13,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+35,192.168.1.203,DELETE,/product/123,200,5815,http://facebook.com,2024-08-18,23:08:52,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+36,192.168.1.62,PUT,/search,404,2557,http://facebook.com,2024-08-19,06:15:38,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+37,192.168.1.89,POST,/checkout,500,6192,http://twitter.com,2024-08-19,10:28:22,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+38,192.168.1.108,DELETE,/home,404,7508,http://google.com,2024-08-18,22:16:12,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+39,192.168.1.166,DELETE,/search,301,1227,http://twitter.com,2024-08-18,10:59:31,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+40,192.168.1.20,PUT,/product/456,404,6492,http://mysite.com,2024-08-19,02:13:32,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+41,192.168.1.29,PUT,/category/books,301,3571,http://twitter.com,2024-08-18,21:46:51,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+42,192.168.1.133,POST,/category/books,200,8031,-,2024-08-18,19:20:30,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+43,192.168.1.193,DELETE,/login,500,1280,http://google.com,2024-08-18,15:23:05,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+44,192.168.1.238,PUT,/search,302,2393,http://google.com,2024-08-18,18:21:38,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+45,192.168.1.24,DELETE,/product/456,200,7327,-,2024-08-19,09:41:54,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+46,192.168.1.182,POST,/checkout,200,5003,http://mysite.com,2024-08-18,11:10:21,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+47,192.168.1.187,GET,/search,302,5272,http://google.com,2024-08-19,03:35:37,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+48,192.168.1.32,PUT,/category/clothing,404,7772,http://facebook.com,2024-08-18,11:48:34,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+49,192.168.1.77,DELETE,/category/electronics,200,1315,-,2024-08-19,10:35:32,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+50,192.168.1.252,PUT,/product/123,200,3025,http://google.com,2024-08-18,23:38:16,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+51,192.168.1.173,GET,/checkout,500,9370,http://facebook.com,2024-08-18,13:49:01,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+52,192.168.1.209,GET,/product/456,301,7063,http://mysite.com,2024-08-19,04:30:56,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+53,192.168.1.227,POST,/checkout,500,1615,-,2024-08-19,02:13:29,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+54,192.168.1.179,GET,/checkout,500,9186,-,2024-08-19,07:16:49,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+55,192.168.1.26,PUT,/home,302,6871,http://facebook.com,2024-08-18,18:30:44,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+56,192.168.1.72,DELETE,/cart,200,2373,http://facebook.com,2024-08-19,07:42:50,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+57,192.168.1.31,GET,/product/456,500,5526,http://google.com,2024-08-18,17:52:43,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+58,192.168.1.19,DELETE,/product/123,301,6177,-,2024-08-18,19:28:07,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+59,192.168.1.38,PUT,/cart,302,4052,http://google.com,2024-08-19,07:04:45,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+60,192.168.1.234,GET,/login,302,7525,http://twitter.com,2024-08-19,00:35:28,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+61,192.168.1.172,GET,/product/123,301,9446,http://google.com,2024-08-19,07:56:26,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+62,192.168.1.245,PUT,/category/books,302,7219,http://mysite.com,2024-08-19,10:36:03,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+63,192.168.1.107,PUT,/login,500,9954,http://mysite.com,2024-08-18,13:33:56,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+64,192.168.1.122,GET,/category/clothing,302,8565,http://twitter.com,2024-08-18,17:45:37,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+65,192.168.1.180,PUT,/product/456,500,8830,http://twitter.com,2024-08-18,12:38:20,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+66,192.168.1.247,POST,/product/123,302,1283,http://google.com,2024-08-19,06:41:33,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+67,192.168.1.78,GET,/home,301,3683,http://twitter.com,2024-08-19,02:26:17,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+68,192.168.1.180,POST,/checkout,200,9086,http://google.com,2024-08-18,16:17:33,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+69,192.168.1.96,PUT,/cart,404,7801,http://google.com,2024-08-19,08:52:48,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+70,192.168.1.100,GET,/search,301,1745,-,2024-08-18,10:58:48,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+71,192.168.1.94,PUT,/category/electronics,404,7174,http://mysite.com,2024-08-18,10:43:56,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+72,192.168.1.86,POST,/checkout,200,8821,http://facebook.com,2024-08-18,19:20:57,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+73,192.168.1.68,GET,/category/electronics,301,4678,http://mysite.com,2024-08-18,23:07:56,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+74,192.168.1.183,PUT,/login,500,9412,http://facebook.com,2024-08-18,17:20:10,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+75,192.168.1.200,POST,/login,301,1824,http://mysite.com,2024-08-18,14:14:52,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+76,192.168.1.74,POST,/home,302,3184,-,2024-08-18,12:34:55,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+77,192.168.1.230,POST,/category/electronics,302,5040,http://mysite.com,2024-08-19,05:02:31,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+78,192.168.1.64,POST,/category/books,301,5701,-,2024-08-19,10:26:34,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+79,192.168.1.118,PUT,/product/456,404,7388,http://facebook.com,2024-08-18,19:04:43,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+80,192.168.1.232,GET,/search,404,2307,http://mysite.com,2024-08-18,21:42:47,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+81,192.168.1.161,PUT,/category/electronics,404,3393,-,2024-08-18,23:59:15,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+82,192.168.1.24,GET,/login,302,4791,-,2024-08-18,21:57:41,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+83,192.168.1.156,DELETE,/checkout,301,8070,http://facebook.com,2024-08-19,01:36:48,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+84,192.168.1.254,PUT,/product/123,404,8591,http://google.com,2024-08-18,18:51:03,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+85,192.168.1.35,GET,/product/456,404,2672,http://twitter.com,2024-08-19,05:13:03,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+86,192.168.1.195,GET,/product/456,500,6315,-,2024-08-18,23:37:28,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+87,192.168.1.104,POST,/search,302,7062,-,2024-08-19,09:10:15,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+88,192.168.1.150,DELETE,/product/456,302,8704,-,2024-08-18,21:18:17,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+89,192.168.1.84,DELETE,/login,404,4603,http://twitter.com,2024-08-19,03:05:14,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+90,192.168.1.43,DELETE,/home,200,7760,http://mysite.com,2024-08-19,02:52:13,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+91,192.168.1.47,GET,/category/books,404,6625,http://google.com,2024-08-18,18:16:01,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+92,192.168.1.72,GET,/product/456,404,3281,http://google.com,2024-08-19,08:36:04,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+93,192.168.1.176,DELETE,/checkout,404,3676,http://facebook.com,2024-08-19,09:36:36,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+94,192.168.1.90,GET,/product/123,301,1482,http://twitter.com,2024-08-19,06:43:13,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+95,192.168.1.43,PUT,/category/books,500,6218,http://mysite.com,2024-08-19,03:02:29,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+96,192.168.1.46,PUT,/category/books,200,2467,http://twitter.com,2024-08-18,18:39:51,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+97,192.168.1.239,PUT,/search,200,6314,http://mysite.com,2024-08-19,02:39:27,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+98,192.168.1.90,GET,/home,404,9075,-,2024-08-19,06:40:38,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+99,192.168.1.98,POST,/checkout,302,2692,http://facebook.com,2024-08-19,07:01:50,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+100,192.168.1.167,GET,/home,500,1554,http://facebook.com,2024-08-19,07:38:44,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+101,192.168.1.64,DELETE,/cart,301,1265,http://twitter.com,2024-08-18,23:33:20,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+102,192.168.1.94,GET,/checkout,500,1783,-,2024-08-19,06:20:28,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+103,192.168.1.53,POST,/product/456,404,3167,http://google.com,2024-08-19,06:30:52,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+104,192.168.1.207,DELETE,/product/456,301,6865,http://facebook.com,2024-08-18,11:27:05,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+105,192.168.1.114,PUT,/category/clothing,302,6251,http://mysite.com,2024-08-18,21:04:04,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+106,192.168.1.226,GET,/login,302,9546,http://twitter.com,2024-08-19,05:50:37,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+107,192.168.1.83,GET,/product/456,200,6878,http://google.com,2024-08-18,17:45:14,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+108,192.168.1.120,PUT,/product/123,302,6017,-,2024-08-19,01:27:21,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+109,192.168.1.103,POST,/checkout,301,6675,http://twitter.com,2024-08-19,05:19:11,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+110,192.168.1.197,DELETE,/home,301,1269,-,2024-08-19,03:14:04,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+111,192.168.1.164,DELETE,/category/books,200,7832,-,2024-08-18,21:36:08,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+112,192.168.1.67,GET,/product/456,200,5907,http://mysite.com,2024-08-18,21:40:58,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+113,192.168.1.225,POST,/home,500,5777,http://twitter.com,2024-08-19,03:01:08,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+114,192.168.1.39,POST,/product/123,404,8969,http://twitter.com,2024-08-19,02:02:27,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+115,192.168.1.98,DELETE,/product/123,302,3322,-,2024-08-18,20:16:29,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+116,192.168.1.11,DELETE,/category/books,302,7883,http://facebook.com,2024-08-19,01:53:31,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+117,192.168.1.95,DELETE,/cart,500,8895,http://facebook.com,2024-08-19,06:34:29,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+118,192.168.1.178,PUT,/cart,302,3848,http://google.com,2024-08-18,15:53:42,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+119,192.168.1.4,DELETE,/category/books,500,4933,http://twitter.com,2024-08-18,12:08:49,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+120,192.168.1.207,GET,/category/electronics,500,7814,http://mysite.com,2024-08-18,18:02:35,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+121,192.168.1.110,PUT,/product/123,302,3692,http://google.com,2024-08-18,12:05:46,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+122,192.168.1.83,POST,/search,302,1041,http://twitter.com,2024-08-19,09:31:20,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+123,192.168.1.107,GET,/category/clothing,200,8877,http://twitter.com,2024-08-19,06:07:10,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+124,192.168.1.91,PUT,/login,302,4414,http://twitter.com,2024-08-19,07:51:13,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+125,192.168.1.147,POST,/product/123,301,3908,http://mysite.com,2024-08-18,17:46:53,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+126,192.168.1.130,DELETE,/checkout,301,2640,http://twitter.com,2024-08-18,14:29:28,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+127,192.168.1.235,DELETE,/checkout,301,6776,-,2024-08-18,22:26:44,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+128,192.168.1.59,PUT,/product/123,200,4019,http://mysite.com,2024-08-19,08:13:57,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+129,192.168.1.189,DELETE,/cart,500,6615,http://twitter.com,2024-08-19,01:01:36,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+130,192.168.1.251,PUT,/checkout,500,7611,http://mysite.com,2024-08-18,12:12:20,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+131,192.168.1.137,GET,/product/456,200,1996,http://google.com,2024-08-19,02:18:56,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+132,192.168.1.41,PUT,/category/electronics,404,3561,http://google.com,2024-08-19,08:02:40,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+133,192.168.1.22,GET,/checkout,404,7043,http://twitter.com,2024-08-18,18:43:37,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+134,192.168.1.132,PUT,/search,302,9105,http://mysite.com,2024-08-19,01:36:25,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+135,192.168.1.49,PUT,/home,302,8435,http://facebook.com,2024-08-18,16:30:10,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+136,192.168.1.16,DELETE,/login,404,9805,http://twitter.com,2024-08-19,04:40:58,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+137,192.168.1.99,DELETE,/home,200,6662,http://mysite.com,2024-08-19,00:18:22,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+138,192.168.1.47,POST,/category/clothing,404,1839,-,2024-08-19,10:07:41,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+139,192.168.1.76,PUT,/category/clothing,200,9108,-,2024-08-18,11:35:03,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+140,192.168.1.186,GET,/category/books,301,5550,http://facebook.com,2024-08-19,05:20:43,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+141,192.168.1.39,DELETE,/search,301,1450,http://google.com,2024-08-19,09:27:45,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+142,192.168.1.50,DELETE,/home,500,9315,http://mysite.com,2024-08-18,22:57:38,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+143,192.168.1.137,DELETE,/cart,302,3621,http://google.com,2024-08-19,03:13:03,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+144,192.168.1.92,POST,/cart,200,7834,http://mysite.com,2024-08-18,17:27:07,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+145,192.168.1.180,DELETE,/product/123,500,7134,http://google.com,2024-08-18,23:06:19,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+146,192.168.1.185,PUT,/category/clothing,200,5104,http://mysite.com,2024-08-19,02:16:11,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+147,192.168.1.149,PUT,/login,200,5937,-,2024-08-19,01:22:35,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+148,192.168.1.71,PUT,/home,404,7696,http://twitter.com,2024-08-19,06:45:00,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+149,192.168.1.179,DELETE,/home,302,4872,http://google.com,2024-08-19,07:01:22,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+150,192.168.1.214,PUT,/search,500,6553,-,2024-08-19,06:36:24,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+151,192.168.1.89,PUT,/login,302,7586,http://facebook.com,2024-08-18,16:54:36,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+152,192.168.1.147,POST,/category/books,404,4306,http://facebook.com,2024-08-18,19:18:04,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+153,192.168.1.240,PUT,/product/123,404,1179,-,2024-08-18,19:31:39,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+154,192.168.1.117,DELETE,/search,500,3451,http://google.com,2024-08-18,18:47:18,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+155,192.168.1.241,GET,/category/electronics,302,9441,-,2024-08-18,17:14:25,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+156,192.168.1.99,GET,/product/456,301,8765,http://google.com,2024-08-19,04:54:00,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+157,192.168.1.31,DELETE,/checkout,302,7580,http://facebook.com,2024-08-18,20:44:06,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+158,192.168.1.3,PUT,/product/123,301,2064,http://twitter.com,2024-08-19,09:32:40,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+159,192.168.1.119,GET,/category/clothing,404,2695,http://twitter.com,2024-08-18,14:00:02,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+160,192.168.1.67,DELETE,/search,404,3861,http://facebook.com,2024-08-19,06:52:53,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+161,192.168.1.214,POST,/category/electronics,404,8505,http://facebook.com,2024-08-18,17:05:48,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+162,192.168.1.27,POST,/cart,404,2864,http://mysite.com,2024-08-18,17:06:16,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+163,192.168.1.240,POST,/product/456,200,8474,-,2024-08-19,06:02:12,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+164,192.168.1.127,DELETE,/category/books,404,4516,-,2024-08-19,00:16:15,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+165,192.168.1.160,GET,/product/123,301,2791,http://facebook.com,2024-08-18,22:52:53,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+166,192.168.1.68,POST,/product/456,301,7273,http://twitter.com,2024-08-19,08:51:21,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+167,192.168.1.201,PUT,/category/books,301,3292,-,2024-08-18,17:52:07,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+168,192.168.1.15,GET,/login,302,6593,http://facebook.com,2024-08-19,03:36:52,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+169,192.168.1.128,PUT,/search,301,1935,-,2024-08-19,07:40:12,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+170,192.168.1.220,DELETE,/home,404,2378,http://twitter.com,2024-08-18,16:14:20,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+171,192.168.1.199,PUT,/home,404,8905,-,2024-08-18,12:19:46,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+172,192.168.1.57,POST,/home,404,9784,http://google.com,2024-08-18,13:21:48,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+173,192.168.1.120,DELETE,/checkout,302,2563,http://facebook.com,2024-08-19,06:17:32,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+174,192.168.1.188,PUT,/category/books,301,4686,http://google.com,2024-08-19,06:28:00,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+175,192.168.1.75,PUT,/checkout,200,7873,http://mysite.com,2024-08-19,05:28:08,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+176,192.168.1.19,DELETE,/category/clothing,404,2025,http://google.com,2024-08-19,00:32:48,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+177,192.168.1.217,DELETE,/product/456,404,6317,http://twitter.com,2024-08-18,13:44:36,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+178,192.168.1.209,POST,/category/electronics,500,2399,http://google.com,2024-08-18,11:09:33,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+179,192.168.1.250,PUT,/checkout,404,8856,-,2024-08-18,19:56:39,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+180,192.168.1.138,POST,/category/clothing,200,5035,http://facebook.com,2024-08-18,22:49:41,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+181,192.168.1.146,GET,/home,200,3215,http://mysite.com,2024-08-18,13:49:29,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+182,192.168.1.233,POST,/checkout,500,8796,http://mysite.com,2024-08-19,05:27:38,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+183,192.168.1.128,GET,/category/books,200,5918,http://twitter.com,2024-08-19,08:26:48,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+184,192.168.1.248,POST,/product/456,302,4187,http://facebook.com,2024-08-19,01:06:38,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+185,192.168.1.182,GET,/cart,500,6104,http://google.com,2024-08-18,18:51:20,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+186,192.168.1.165,POST,/product/123,500,6104,-,2024-08-18,16:34:41,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+187,192.168.1.84,PUT,/login,500,3955,http://mysite.com,2024-08-18,22:08:51,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+188,192.168.1.56,PUT,/product/123,302,3865,http://google.com,2024-08-18,17:45:40,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+189,192.168.1.147,POST,/category/books,301,3294,-,2024-08-18,21:17:51,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+190,192.168.1.36,PUT,/search,302,4279,http://twitter.com,2024-08-18,15:59:54,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+191,192.168.1.105,DELETE,/product/456,500,7137,http://google.com,2024-08-18,13:35:54,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+192,192.168.1.144,PUT,/category/electronics,302,8930,http://twitter.com,2024-08-19,07:47:44,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+193,192.168.1.236,DELETE,/category/clothing,302,9517,-,2024-08-19,09:29:59,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+194,192.168.1.61,POST,/category/clothing,301,9324,http://mysite.com,2024-08-19,05:18:41,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+195,192.168.1.255,GET,/cart,302,5067,-,2024-08-19,08:35:31,Chrome/104.0.0.0,"KHTML, like Gecko",Desktop
+196,192.168.1.91,POST,/category/electronics,404,9056,http://facebook.com,2024-08-19,08:49:58,Version/14.0,"iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko",Mobile
+197,192.168.1.95,DELETE,/cart,500,1303,http://google.com,2024-08-19,03:03:35,Chrome/104.0.0.0,"Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko",Desktop
+198,192.168.1.105,PUT,/cart,404,3021,-,2024-08-19,05:10:32,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
+199,192.168.1.157,DELETE,/login,500,8937,http://google.com,2024-08-18,12:59:45,Chrome/83.0.4103.106,"KHTML, like Gecko",Mobile
